@@ -1,5 +1,4 @@
 use anchor_lang::prelude::*;
-use anchor_spl::token::{ Token, Transfer };
 
 declare_id!("4DmLyB448d8BMxVDbPEoJhyD9BpPE12BS5wTMTTq3zYB");
 
