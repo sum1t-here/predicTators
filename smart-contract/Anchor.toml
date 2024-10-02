@@ -11,7 +11,7 @@ smart_contract = "4DmLyB448d8BMxVDbPEoJhyD9BpPE12BS5wTMTTq3zYB"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
