@@ -1,7 +1,13 @@
+import WalletButton from "./components/WalletButton";
+import Home from "./pages/Home";
+
 function App() {
   return (
-    <div>
-      <h1 className="text-red-800">Hello-Predictator</h1>
+    <div className="App">
+      <header className="p-4 shadow-md">
+        <WalletButton />
+      </header>
+      <Home />
     </div>
   );
 }
